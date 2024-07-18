@@ -1,1 +1,1 @@
-echo "solo esta este escrito"
+#he borrado todo
